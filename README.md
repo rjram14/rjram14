@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ramnewas Singh
+
+👋 Hi, I’m Ramnewas Singh
 - 👀 I’m interested in Fullatack Developer
 - 🌱 I’m currently learning Node JS as well as Next.js
 - 💞️ Founder of interviewadviser.org
