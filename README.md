@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @rjram14
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... ramnewasgkp@gmail.com
+- 👋 Hi, I’m Ramnewas Singh
+- 👀 I’m interested in Fullatack Developer
+- 🌱 I’m currently learning Node JS as well as Next.js
+- 💞️ Founder of interviewadviser.org
+- 📫 How to reach me 1. this is my email : ramnewasgkp@gmail.com 
+-                     2. Instagram : _rjram14
+-                     3.Linkedin : https://www.linkedin.com/in/ramnewas-singh-15ab241a9/
 
-<!---
-rjram14/rjram14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
