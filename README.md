@@ -2,8 +2,8 @@
  👋 Hi,  I’m Ramnewas Singh
 - 👀 I’m interested in Fullatack Developer
 - 🌱 I’m currently learning 
-- 1. Node.Js
-- 2. Next.js
+                      1. Node.Js
+                      2. Next.js
 - 💞️ Founder of interviewadviser.org
 - 📫 How to reach me 
 -                     1. this is my email : ramnewasgkp@gmail.com 
