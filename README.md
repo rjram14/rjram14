@@ -1,5 +1,5 @@
 
- 👋 Hi,  I’m Ramnewas Singh
+ 👋 Hi, I’m Ramnewas Singh
 - 👀 I’m interested in Fullatack Developer
 - 🌱 I’m currently learning 
                       1. Node.Js
