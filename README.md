@@ -8,6 +8,6 @@
 - 📫 How to reach me 
 -                     1. this is my email : ramnewasgkp@gmail.com 
 -                     2. Instagram : _rjram14
--                     3.Linkedin : https://www.linkedin.com/in/ramnewas-singh-15ab241a9/
+-                    
 
 
